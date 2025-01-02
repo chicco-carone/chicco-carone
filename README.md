@@ -12,7 +12,7 @@
 - **Tools:** Git, Docker, VS Code, Jupyter, Arch Linux
 
 ## 📊 Coding Stats (Wakapi)
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chicco)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chicco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chicco-carone&show_icons=true&theme=radical)
 
