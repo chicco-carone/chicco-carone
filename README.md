@@ -19,6 +19,5 @@
 ## 💡 Projects
 - [Snapcast-Gui](https://github.com/chicco-carone/Snapcast-Gui):  A gui to control and manage snapcast written in python 
 - [Smarter Remove All Comments](https://github.com/chicco-carone/remove-all-comments): A vscode extension to remove comments while avoiding useful comments
-- [Podcasterr](https://github.com/chicco-carone/podcasterr): An rss podcast manager and downloader.
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on any project or just want to connect.
